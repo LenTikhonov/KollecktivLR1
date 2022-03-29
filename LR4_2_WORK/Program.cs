@@ -10,35 +10,35 @@ namespace LR4_2_WORK
 
     {
 
-        public static string ChangeLastInclude(string str, char changing, char symbol)//символьнная проверкf
+        public static string ChangeLastInclude(string str, char changing, char symbol)//посимвольная проверка
 
         {
 
-            if (str == "") //1
+            if (str == "") 
 
                 return "";
 
-            var arr = str.ToArray(); //3
+            var arr = str.ToArray(); 
 
-            for (int i = str.Length - 1; //4
+            for (int i = str.Length - 1; 
 
-            i >= 0; //5
+            i >= 0; 
 
-            i--) //6
+            i--) 
 
             {
 
-                if (arr[i] == changing) //7
+                if (arr[i] == changing) 
 
                 {
 
-                    arr[i] = symbol; break; //8
+                    arr[i] = symbol; break; 
 
                 }
 
             }
 
-            return new string(arr); //9
+            return new string(arr); 
 
         }
 
