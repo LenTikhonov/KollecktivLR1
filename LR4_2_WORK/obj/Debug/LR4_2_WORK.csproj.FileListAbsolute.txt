@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\bin\Debug\LR4_2_WORK.exe.config
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\bin\Debug\LR4_2_WORK.exe
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\bin\Debug\LR4_2_WORK.pdb
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\obj\Debug\LR4_2_WORK.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\obj\Debug\LR4_2_WORK.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\obj\Debug\LR4_2_WORK.exe
+C:\Users\Lenovo\source\repos\LR4_2_WORK\LR4_2_WORK\obj\Debug\LR4_2_WORK.pdb
